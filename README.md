@@ -1,4 +1,4 @@
-# Realstatse
+# Real estate
 This is a Informational bot application developoed for all people who are willing to do event  related to give information about event planning .
 ### This web based informational bot application has been developed for the accomplishment of future ready talent internship program launched by microsoft, future skil prime, Quess, GitHub,EY.
 ## project link: "https://sites.google.com/view/realestate-azure-website/home"
