@@ -28,8 +28,8 @@ I have created a informational bot named "Real estate" using Html and services l
 ![Screenshot_20221229_204247](https://user-images.githubusercontent.com/110482052/209974946-1aac55dd-1737-4ade-91aa-d80fde2fcd1b.png)
 ##chatbot
 ![Screenshot_20221229_204854](https://user-images.githubusercontent.com/110482052/209975115-0e75b9ba-a32f-424f-be94-7d765f198834.png)
-##gallery
-![Screenshot_20221229_204933](https://user-images.githubusercontent.com/110482052/209975289-f7e1a290-3080-45a6-b707-e200e91a5d0a.png)
+##Apart and flats
+![Screenshot_20221229_210628](https://user-images.githubusercontent.com/110482052/209976093-62b67574-20d2-469e-823f-2656e9601730.png)
 ##
 ![photos](https://user-images.githubusercontent.com/112412481/193054419-12a58a76-bcff-4a08-aa7c-0f87df6e7bcd.jpg)
 ##
