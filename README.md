@@ -25,7 +25,7 @@ I have created a informational bot named "event planning" using Html and service
 - Main concept that my bot gives;About Event planning, and management.
 ## Screenshorts:
 ## Home page
-![home page](https://user-images.githubusercontent.com/112412481/193051949-65441b8a-095a-44af-ab3a-393688f7c87a.jpg)
+![Screenshot_20221229_204247](https://user-images.githubusercontent.com/110482052/209974946-1aac55dd-1737-4ade-91aa-d80fde2fcd1b.png)
 ##chatbot
 ![chatbot](https://user-images.githubusercontent.com/112412481/193053660-9956f00f-e8e8-4d26-a33d-86a78a1085d8.jpg)
 ##gallery
