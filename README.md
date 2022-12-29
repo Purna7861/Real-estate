@@ -29,7 +29,7 @@ I have created a informational bot named "event planning" using Html and service
 ##chatbot
 ![Screenshot_20221229_204854](https://user-images.githubusercontent.com/110482052/209975115-0e75b9ba-a32f-424f-be94-7d765f198834.png)
 ##gallery
-![photos](https://user-images.githubusercontent.com/112412481/193054051-696b6e94-7951-4766-84ed-f26b72e5bde8.jpg)
+![Screenshot_20221229_204933](https://user-images.githubusercontent.com/110482052/209975289-f7e1a290-3080-45a6-b707-e200e91a5d0a.png)
 ##
 ![photos](https://user-images.githubusercontent.com/112412481/193054419-12a58a76-bcff-4a08-aa7c-0f87df6e7bcd.jpg)
 ##
