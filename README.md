@@ -18,36 +18,22 @@ I have created a informational bot named "Real estate" using Html and services l
 ## About ChatBot 💬:
 - Created a chat bot About organic farming.
 - Also available with app.
-- "Real estate ChatBot" looks like a professional bot where you can find (or) know information about "Event planning".
+- "Real estate ChatBot" looks like a professional bot where you can find (or) know information about "Real estate".
 - Bot contains information about Event planning like i.e; types of event..
 - we provided Gallery in home page to find more and also official website with links with innovative ideas ; go through it.
 -Event planning ChatBot useful for the peoples.
-- Main concept that my bot gives;About Event planning, and management.
+- Main concept that my bot gives;About Real estate
 ## Screenshorts:
-## Home page
+## Home page:
 ![Screenshot_20221229_204247](https://user-images.githubusercontent.com/110482052/209974946-1aac55dd-1737-4ade-91aa-d80fde2fcd1b.png)
-##chatbot
+##chatbot:
 ![Screenshot_20221229_204854](https://user-images.githubusercontent.com/110482052/209975115-0e75b9ba-a32f-424f-be94-7d765f198834.png)
-##Apart and flats
+##Apart and flats:
 ![Screenshot_20221229_210628](https://user-images.githubusercontent.com/110482052/209976093-62b67574-20d2-469e-823f-2656e9601730.png)
-##homes
+##homes:
 ![Screenshot_20221229_205026](https://user-images.githubusercontent.com/110482052/209976278-fe6b35c5-7214-484e-bbd9-3926aeba2e87.png)
-##lands
+##lands:
 ![Screenshot_20221229_210658](https://user-images.githubusercontent.com/110482052/209976448-7f4a020e-4ffc-4546-98a6-bb156aff8c50.png)
-##Haldi event
-![photos](https://user-images.githubusercontent.com/112412481/193055251-f04d30f5-db30-4ce7-87aa-b2116ce09a1b.jpg)
-##Decoration
-![event 7](https://user-images.githubusercontent.com/112412481/193055534-b634de9b-01e6-48ad-9728-958e2cd3c123.jpg)
-##lighting
-![event 8](https://user-images.githubusercontent.com/112412481/193055763-cd29aa50-64c1-4bfe-93e9-d90a7f8198d0.jpg)
-##Grand decoration
-![event 9](https://user-images.githubusercontent.com/112412481/193056022-e9f606f5-6a4a-4b1a-97e9-a9c97ee69e89.jpg)
-##lighting grand sound parties
-![event 10](https://user-images.githubusercontent.com/112412481/193056359-1faec9a7-7c46-494f-b7a9-a9120a69e457.jpg)
-##Event managing
-![event 11](https://user-images.githubusercontent.com/112412481/193056880-a89dff7a-4df2-41d7-8892-181c674a65d7.jpg)
-##Frequently asked questions
-![event 12](https://user-images.githubusercontent.com/112412481/193057219-0e2bef8e-66ca-40cd-bbc1-1265350ec20a.jpg)
 ##contact us:
 ![Screenshot_20221229_204559](https://user-images.githubusercontent.com/110482052/209976660-be3b860c-aebc-40fe-b555-24b4092b5417.png)
 ##contact address:
