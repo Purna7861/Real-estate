@@ -32,8 +32,8 @@ I have created a informational bot named "Real estate" using Html and services l
 ![Screenshot_20221229_210628](https://user-images.githubusercontent.com/110482052/209976093-62b67574-20d2-469e-823f-2656e9601730.png)
 ##homes
 ![Screenshot_20221229_205026](https://user-images.githubusercontent.com/110482052/209976278-fe6b35c5-7214-484e-bbd9-3926aeba2e87.png)
-##
-![photos](https://user-images.githubusercontent.com/112412481/193054871-16197410-5048-4511-b221-a6b9675f567b.jpg)
+##lands
+![Screenshot_20221229_210658](https://user-images.githubusercontent.com/110482052/209976448-7f4a020e-4ffc-4546-98a6-bb156aff8c50.png)
 ##Haldi event
 ![photos](https://user-images.githubusercontent.com/112412481/193055251-f04d30f5-db30-4ce7-87aa-b2116ce09a1b.jpg)
 ##Decoration
